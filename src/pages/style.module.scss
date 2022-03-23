@@ -1,0 +1,24 @@
+.container {
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1000px;
+}
+.wrapper {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+}
+.col {
+
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    color: black;
+}
